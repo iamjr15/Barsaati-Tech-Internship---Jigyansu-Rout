@@ -14,9 +14,4 @@ This project scrapes trending topics from Twitter and stores them in a MongoDB d
 - MongoDB
 - Git
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:gptc8980/trendscrapper.git
-   cd trendscrapper
